@@ -32,7 +32,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        
+        //scoreText = "Score: 0 - High Score: ";
     }
 
     // Update is called once per frame
